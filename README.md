@@ -26,6 +26,15 @@ ACT I
 - clean/manipulate the data (keep in mind potential buisness style questions)
 
 
+Data cleaning Methods: 
+1. dropping columns
+2. removing duplicates
+3. removing irrelevent rows
+4. removing null and other values
+5. standardise values? 
+6. split columns
+7. convert data types
+
 
 notes: I have realised I should identify null values before removing duplicates as the duplicates could contain the missing values. 
 
