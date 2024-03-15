@@ -3,9 +3,9 @@ A week 4 project from Sparta to clean and analyse a dataset using Pandas DataFra
 
 
 
-dataset - Google Play Store Apps
+dataset: Google Play Store Apps
 
-In this dataset we have Apps, their categories, ratings, reviews, installs, types, price,
+in this dataset we have Apps, their categories, ratings, reviews, installs, types, price,
 content rating, and genres. 
 
 
@@ -18,8 +18,25 @@ Once the data is cleaned, some buisness questions could be:
 
 
 blueprint
+
+ACT I
 - load in data
 - turn the csv into a dataframe
 - exemplify some techniques to first view what date we do have 
 - clean/manipulate the data (keep in mind potential buisness style questions)
+
+
+
+notes: I have realised I should identify null values before removing duplicates as the duplicates could contain the missing values. 
+
+actions: re-adjust the dataframe to include the duplicates, then run the code that identifies null values, see if any of the duplicates will contain the missing rankings and try to merge them. 
+
+
+
+
+
+ACT 2
+- visualisations with seaborn and matplotlib
+- data insights, considerations & conclusions
+- further questions and food for thought 
 
