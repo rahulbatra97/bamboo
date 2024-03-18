@@ -35,7 +35,7 @@ notes: I have realised I should identify null values before removing duplicates 
 actions: re-adjust the dataframe to include the duplicates, then run the code that identifies null values, see if any of the duplicates will contain the missing rankings and try to merge them. 
 
 
-ACT 2
+ACT II
 - visualisations with seaborn and matplotlib
 - data insights, considerations & conclusions
 - further questions and food for thought 
